@@ -1,8 +1,9 @@
 # Instructions
 
 # notes
-#For the imdb data have used my personal api key
-#Have atleast python 3.8+
+For the imdb data have used my personal api key
+
+Have atleast python 3.8+
 
 #Run The commands below on your terminal/command prompt
 
